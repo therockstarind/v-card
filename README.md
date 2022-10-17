@@ -1,4 +1,4 @@
-# 🎃 Responsive Personal Website
+# Responsive Personal Website
 
 ### We Just Redesign It To Learn About CSS & HTML.
 
